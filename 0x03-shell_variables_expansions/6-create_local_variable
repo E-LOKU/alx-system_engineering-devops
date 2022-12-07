@@ -1,2 +1,2 @@
 #!/bin/bash
-prompt BESTVAR="school"
+varBEST="school"
